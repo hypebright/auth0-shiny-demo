@@ -21,4 +21,6 @@ To sucessfully integrate Auth0 into your Shiny application, you'll need to do th
 
 ## Watch this demonstration on YouTube
 
-Coming soon! 👀 
+📅 Video will be live on January 4, 2024 at 1:00 PM (CEST).
+
+You can watch it [here](https://youtu.be/Vq32tbqFdiM).
